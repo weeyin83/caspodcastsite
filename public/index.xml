@@ -8,6 +8,17 @@
     <language>en</language>
     <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>Podcast Hosts</description>
+      
+    </item>
+    
+    <item>
       <title>Episode 2</title>
       <link>http://localhost:1313/post/epsiode-2/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
@@ -51,17 +62,6 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
       <guid>http://localhost:1313/contact/</guid>
       
         <description>Contact Page</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
     </item>
     

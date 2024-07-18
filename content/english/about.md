@@ -1,25 +1,64 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "Podcast Hosts"
+date = "2024-07-18"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+<style>
+#about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.about-column {
+    width: 45%;
+    text-align: center;
+    margin: 2.5%;
+}
+.about-column img {
+    width: 150px;
+    border: rgba(0, 0, 0, 0.15) solid;
+    border-radius: 20%;
+    border-width: 1px;
+}
+.aboutname {
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+}
+.abouttitle {
+    margin: 0 0 10px 0;
+}
+.social-icons {
+    margin-top: 10px;
+}
+.social-icons a {
+    margin: 0 5px;
+    color: #000;
+}
+</style>
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+<div id="about">
+    <div class="about-column">
+        <img src="/images/sarah.png" alt="Sarah">
+        <p class="aboutname">Sarah Lean</p>
+        <p class="abouttitle">Senior Technical Specialist @ Microsoft</p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/sazlean" aria-label="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a href="https://twitter.com/techielass" aria-label="Twitter"><i class="fab fa-twitter fa-2x"></i></a>
+        </div>
+    </div>
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+  <div class="about-column">
+        <img src="/images/marc.jpeg" alt="Marc">
+        <p class="aboutname">Marc Alexander</p>
+        <p class="abouttitle">Regional Security Program Manager for EMEA @ Microsoft</p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/alexandermarc/" aria-label="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a href="https://twitter.com/" aria-label="Twitter"><i class="fab fa-twitter fa-2x"></i></a>
+        </div>
+    </div>
+</div>
