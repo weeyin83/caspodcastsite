@@ -31,6 +31,17 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
     </item>
     
     <item>
+      <title>Subscribe</title>
+      <link>http://localhost:1313/subscribe/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/subscribe/</guid>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
+    </item>
+    
+    <item>
       <title>Episode 1</title>
       <link>http://localhost:1313/post/episode1/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
@@ -55,36 +66,24 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
-      
-        <description>Contact Page</description>
-      
-    </item>
-    
-    <item>
-      <title>Subscribe</title>
-      <link>http://localhost:1313/subscribe/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/subscribe/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
       <title></title>
       <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/imprint/</guid>
       
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
+        <description>Thanks to Writers’ HQ, our supreme writing commanders, glorious leaders and excellent but tiny overlords, who have verily granted us permission to use their splendid and sweary Privacy Policy.</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+        <description>Contact Page</description>
       
     </item>
     
