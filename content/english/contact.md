@@ -1,10 +1,15 @@
 ---
 title: "Contact"
-date: "2020-02-25"
+date: "2024-07-18"
 ---
 
 You can contact us here!
 
+<style>
+  .form-group {
+    margin-bottom: 1.5rem; /* Adjust the value as needed for more or less space */
+  }
+</style>
 
 <form method="post" action="https://forms.un-static.com/forms/f630816102e9386d5b5e00d4d32ff05bdbf4a1de" class="container mt-5">
   <div class="form-group row">
