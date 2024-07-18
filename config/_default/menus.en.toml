@@ -11,35 +11,22 @@
   url = "/post/"
 
   [[main]]
-  name = "Portfolio"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
-
-  [[main]]
   name = "About"
-  weight = 400
+  weight = 300
   identifier = "about"
   url = "/about/"
 
   [[main]]
-  name = "Accomplishments"
+  name = "Donate"
+  weight = 400
+  identifier = "donate"
+  url = "https://buymeacoffee.com"
+
+   [[main]]
+  name = "Subscribe"
   weight = 500
-  identifier = "accomplishments"
-
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
-
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
+  identifier = "subscribe"
+  url = "/subscribe/"
 
   [[main]]
   name = "Contact"
