@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on CTRL&#43;ALT&#43;SCOTS</title>
+    <link>http://localhost:1313/tags/podcast/</link>
+    <description>Recent content in Podcast on CTRL&#43;ALT&#43;SCOTS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pilot</title>
+      <link>http://localhost:1313/post/notice-shortcode/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      
+        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
