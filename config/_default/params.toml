@@ -74,7 +74,7 @@ url = "https://rssfeed.com"
 [[socialIcons]]
 icon = "fa-brands fa-youtube"
 title = "YouTube"
-url = "https://youtube.com"
+url = "https://www.youtube.com/@ctrlaltscots"
 
 [mermaid]
 # enable = true
