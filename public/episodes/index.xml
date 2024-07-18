@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CTRL&#43;ALT&#43;SCOTS</title>
+    <link>http://localhost:1313/episodes/</link>
+    <description>Recent content in Posts on CTRL&#43;ALT&#43;SCOTS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/episodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 2</title>
+      <link>http://localhost:1313/episodes/epsiode-2/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/episodes/epsiode-2/</guid>
+      
+        <description>Welcome to episode, welcome to CTRL+ALT+SCOTS.
+Subscribe to us on Spotify, on iTunes or listen to the episode right here</description>
+      
+    </item>
+    
+    <item>
+      <title>Episode 1</title>
+      <link>http://localhost:1313/episodes/episode1/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/episodes/episode1/</guid>
+      
+        <description>Welcome to episode, welcome to CTRL+ALT+SCOTS.
+Subscribe to us on Spotify, on iTunes or listen to the episode right here</description>
+      
+    </item>
+    
+    <item>
+      <title>Pilot</title>
+      <link>http://localhost:1313/episodes/pilot-episode/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/episodes/pilot-episode/</guid>
+      
+        <description>In this pilot episode, welcome to CTRL+ALT+SCOTS.
+Subscribe to us on Spotify, on iTunes or listen to the episode right here</description>
+      
+    </item>
+    
+  </channel>
+</rss>

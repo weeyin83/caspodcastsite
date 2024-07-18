@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/epsiode-2/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,6 +26,9 @@
     <loc>http://localhost:1313/subscribe/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/support/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,9 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/post/pilot-episode/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
   </url><url>

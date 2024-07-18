@@ -5,9 +5,9 @@
   url = "/"
 
   [[main]]
-  name = "Posts"
+  name = "Episodes"
   weight = 200
-  identifier = "posts"
+  identifier = "episodes"
   url = "/post/"
 
   [[main]]
@@ -17,10 +17,10 @@
   url = "/about/"
 
   [[main]]
-  name = "Donate"
+  name = "Support"
   weight = 400
-  identifier = "donate"
-  url = "https://buymeacoffee.com"
+  identifier = "support"
+  url = "/support/"
 
    [[main]]
   name = "Subscribe"

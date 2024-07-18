@@ -1,6 +1,9 @@
 ---
-title: "Contact"
-date: "2024-07-18"
+author: Hugo Authors
+title: Contact
+date: 2024-07-18
+description: Contact Page
+contact: false
 ---
 
 You can contact us here!

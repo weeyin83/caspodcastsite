@@ -25,8 +25,7 @@
       
       <guid>http://localhost:1313/contact/</guid>
       
-        <description>You can contact us here!
-NameE-mailMessageSend(Powered by Un-static Forms)</description>
+        <description>Contact Page</description>
       
     </item>
     
@@ -49,7 +48,18 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
       
       <guid>http://localhost:1313/subscribe/</guid>
       
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+        <description>Subscribe to the podcast</description>
+      
+    </item>
+    
+    <item>
+      <title>Support the Pod</title>
+      <link>http://localhost:1313/support/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/support/</guid>
+      
+        <description>Support the Pod</description>
       
     </item>
     
