@@ -66,6 +66,18 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+        <description>You can contact us here!
+NameE-mail addressMessageSend(Powered by Un-static Forms)</description>
+      
+    </item>
+    
+    <item>
       <title></title>
       <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,17 +85,6 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
       <guid>http://localhost:1313/imprint/</guid>
       
         <description>Thanks to Writers’ HQ, our supreme writing commanders, glorious leaders and excellent but tiny overlords, who have verily granted us permission to use their splendid and sweary Privacy Policy.</description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
-      
-        <description>Contact Page</description>
       
     </item>
     
