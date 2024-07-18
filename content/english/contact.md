@@ -1,7 +1,7 @@
 ---
 author: Hugo Authors
 title: Contact
-date: 2019-03-08
+date: 2024-07_18
 description: Contact Page
 contact: true
 ---
