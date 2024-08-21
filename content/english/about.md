@@ -58,7 +58,6 @@ author = "Hugo Authors"
         <p class="abouttitle">Regional Security Program Manager for EMEA @ Microsoft</p>
         <div class="social-icons">
             <a href="https://www.linkedin.com/in/alexandermarc/" aria-label="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a>
-            <a href="https://twitter.com/" aria-label="Twitter"><i class="fab fa-twitter fa-2x"></i></a>
         </div>
     </div>
 </div>

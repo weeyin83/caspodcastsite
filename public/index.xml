@@ -6,7 +6,7 @@
     <description>Recent content on CTRL&#43;ALT&#43;SCOTS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -30,18 +30,6 @@
     </item>
     
     <item>
-      <title>Episode 2</title>
-      <link>http://localhost:1313/post/epsiode-2/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/epsiode-2/</guid>
-      
-        <description>Welcome to episode, welcome to CTRL+ALT+SCOTS.
-Subscribe to us on Spotify, on iTunes or listen to the episode right here</description>
-      
-    </item>
-    
-    <item>
       <title>Subscribe</title>
       <link>http://localhost:1313/subscribe/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
@@ -60,30 +48,6 @@ Subscribe to us on Spotify, on iTunes or listen to the episode right here</descr
       <guid>http://localhost:1313/support/</guid>
       
         <description>Support the Pod</description>
-      
-    </item>
-    
-    <item>
-      <title>Episode 1</title>
-      <link>http://localhost:1313/post/episode1/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/episode1/</guid>
-      
-        <description>Welcome to episode, welcome to CTRL+ALT+SCOTS.
-Subscribe to us on Spotify, on iTunes or listen to the episode right here</description>
-      
-    </item>
-    
-    <item>
-      <title>Pilot</title>
-      <link>http://localhost:1313/post/pilot-episode/</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/pilot-episode/</guid>
-      
-        <description>In this pilot episode, welcome to CTRL+ALT+SCOTS.
-Subscribe to us on Spotify, on iTunes or listen to the episode right here</description>
       
     </item>
     
